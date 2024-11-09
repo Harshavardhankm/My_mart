@@ -1,0 +1,6 @@
+C:mymart\best-store> npm start
+
+
+
+
+C:mymart\best-store-api>node server.js

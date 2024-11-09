@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Acer Swift pro",
+      "brand": "Acer",
+      "category": "Computers",
+      "price": 80000,
+      "description": "Acer Swift X SFX14-41G-R1S6 Creator Laptop | Full HD | AMD Ryzen 7 5825U",
+      "imageFilename": "04600086.png",
+      "createdAt": "2023-03-17T16:45:01.8900000"
+    },
+    {
+      "id": 2,
+      "name": "Lenevo LOQ",
+      "brand": "Lenovo",
+      "category": "Computers",
+      "price": 68000,
+      "description": "Lenovo LOQ Gen 9, 39.62cms - AMD R5 (Luna Grey) | Full HD | AMD Ryzen™ 5 7235HS Processor (3.20 GHz up to 4.20 GHz)",
+      "imageFilename": "123456.png",
+      "createdAt": "2023-05-17T16:45:01.8900000"
+    },
+    {
+      "name": "nokia 7.1",
+      "brand": "nokia",
+      "category": "Other",
+      "price": 22000,
+      "description": "jdjdjdfjjfklfjkfjdfjjkdfjdfjkfjkfjkdljljfjhdfjhfjjkfdjdfjhfd",
+      "imageFilename": "1725284096237_nokia-7.1.png",
+      "createdAt": "2024-09-02T13:34:56.243Z",
+      "id": 3
+    },
+    {
+      "name": "Iphone 16",
+      "brand": "iphone",
+      "category": "Phones",
+      "price": 120000,
+      "description": "its brand new iphone and it spec is ...........................",
+      "imageFilename": "1731179258329_iphone.png",
+      "createdAt": "2024-11-09T19:07:38.333Z",
+      "id": 4
+    }
+  ]
+}
